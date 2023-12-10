@@ -1,0 +1,26 @@
+{
+  "name": "vue-3-vite-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "3.3.11",
+    "@popperjs/core": "^2.11.8"
+  },
+  "devDependencies": {
+    "@unocss/preset-uno": "^0.56.4",
+    "@unocss/reset": "^0.56.4",
+    "@unocss/vite": "^0.56.4",
+    "@vitejs/plugin-vue": "4.5.2",
+    "@vue/compiler-sfc": "^3.3.11",
+    "vite": "^4.4.9",
+    "unocss": "^0.56.4",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.2"
+  },
+  "keywords": [],
+  "description": ""
+}
